@@ -5,13 +5,19 @@ If there is any Key, Potion or Moster you would see when you enter the specific 
 You Start the game in Hall.
 
 NAVIGATION IN GAME:
+
 You can navigate through rooms such that "go [Direction]" where direction could be [east, west, north, south].
+
 Example:: go north, go south, etc.
+
 NOTE:: Current Room can have any of the direction but not all of them at a time.
 
 PICK AN ITEM:
+
 You can Pick Item in rooms such that "get [Item]" where Item could be [Key, Potion].
+
 Example:: get key, get potion.
+
 NOTE: If there is an item in room You can see the item.[It would be written]
 
 WINNING STATE:
